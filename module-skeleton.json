@@ -1,0 +1,15 @@
+{
+  "repository": "module-ecommerce-quick-order-filament",
+  "capabilityKey": "planned:ecommerce:quick-order",
+  "presentation": "laravel-filament",
+  "package": "liberusoftware/ecommerce-quick-order-filament",
+  "foundation": "module-boilerplate-filament",
+  "foundationCommit": "9282e55622b1abd4db48da891480cd9cac46c158",
+  "canonicalPlan": "projects/ecommerce/nextjs/quick-order.md",
+  "presentationPlan": "projects/ecommerce/filament/quick-order.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "ecommerce"
+  ]
+}
